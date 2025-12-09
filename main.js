@@ -5,3 +5,7 @@ const a = () =>{
 const b = () =>{
     return 0
 }
+
+const c = () =>{
+    return 0
+}
